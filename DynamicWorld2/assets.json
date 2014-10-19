@@ -1,0 +1,4 @@
+[
+	{"name" : "shaders", "type" : "json"},
+	{"name" : "texture", "type" : "image"}
+]
