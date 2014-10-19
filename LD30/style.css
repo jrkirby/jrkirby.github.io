@@ -1,0 +1,19 @@
+canvas {
+    margin: 0 auto;
+    display: block;
+}
+
+section.INSTRUCTIONS {
+	float: left;
+	width: 300px;
+    margin-right: 10px;
+}
+
+article {
+	display: block;
+	width: 100%;
+}
+
+section.GAME {
+	margin: 0 auto;
+}

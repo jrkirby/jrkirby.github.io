@@ -1,0 +1,14 @@
+[
+	{"name" : "Planet1", "type" : "image"},
+	{"name" : "Planet2", "type" : "image"},
+	{"name" : "Planet3", "type" : "image"},
+	{"name" : "sun", "type" : "image"},
+	{"name" : "background", "type" : "image"},
+	{"name" : "Line", "type" : "image"},
+	{"name" : "Line2", "type" : "image"},
+	{"name" : "planet1ATTR", "type" : "json"},
+	{"name" : "planet2ATTR", "type" : "json"},
+	{"name" : "planet3ATTR", "type" : "json"},
+	{"name" : "sunATTR", "type" : "json"},
+	{"name" : "music", "type" : "audio"}
+]
