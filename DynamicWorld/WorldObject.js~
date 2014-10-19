@@ -5,7 +5,7 @@ function lerp(a, b, t) {
 
 WorldObject = function()
 {
-	noise.seed(43);
+	noise.seed(42);
 	this.size = 200;
 	this.mvMatrix = mat4.create();
     this.mvMatrixStack = [];
